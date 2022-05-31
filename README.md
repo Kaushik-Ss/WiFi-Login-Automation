@@ -12,3 +12,5 @@ Works for users with this login page
 - $ Cd to the cloned location and do $python main_v3.py
 # 
 This can still be automated with While True, sleep and occassional pinging to check connection establishment, try except blocks for better debugging, I haven't implemented this as this was done to showcase rapid prototyping.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaushik-Ss%2FPSG-Tech-Hostel-WiFi-Login-Automated&count_bg=%237CFF18&title_bg=%23A83636&icon=&icon_color=%234D2121&title=Total+Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
