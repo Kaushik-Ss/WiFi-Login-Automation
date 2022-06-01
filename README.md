@@ -7,7 +7,7 @@ Works for users with this login page
 ## How to use - Method 1
 - Clone / download repo and extract / open the files in cmd or cd to the downloaded / clonned repo
 - Run the latest file **(main_v3.py)** other files are for documentation purpose 
-- $ Run pip install -r requirements.txt 
+- Open cmd and type **pip install -r requirements.txt** 
 - Open main_v3.py in IDLE or referred IDE and proceed to **line 103 and pass username and password as arguments to connect function** (here replace it with rollno and pwd where in case mine is '20I224' and '20I224', **Note pass the username and password as string**
 - $ Cd to the cloned location and do $python main_v3.py
 ## How to use - Method 2
