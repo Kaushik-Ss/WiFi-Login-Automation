@@ -14,7 +14,7 @@ Works for users with this login page
 - $ Cd to the cloned location and do $python main_v3.py
 ## How to use - Method 2
 - Run the lastest version
-<img src="https://user-images.githubusercontent.com/75175772/171410407-5543dc02-49b0-4d69-bff5-94db3e70b7ec.png" alt="click_run" width="500"/>
+<img src="https://user-images.githubusercontent.com/75175772/171410407-5543dc02-49b0-4d69-bff5-94db3e70b7ec.png" alt="click_run" width="400"/>
 
 
 This can still be automated with While True, sleep and occassional pinging to check connection establishment, try except blocks for better debugging, I haven't implemented this as this was done to showcase rapid prototyping.
