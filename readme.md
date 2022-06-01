@@ -10,10 +10,11 @@ Works for users with this login page
 - Clone / download repo and extract / open the files in cmd or cd to the downloaded / clonned repo
 - Run the latest file **(main_v3.py)** other files are for documentation purpose 
 - Open cmd and type **pip install -r requirements.txt** 
-- Open main_v3.py in IDLE or referred IDE and proceed to **line 103 and pass username and password as arguments to connect function** (here replace it with rollno and pwd where in case mine is '20I224' and '20I224', **Note pass the username and password as string**
+- Open main_v4.py in IDLE or referred IDE and proceed to **line 100 and pass username and password as arguments to connect function** (here replace it with rollno and pwd where in case mine is '20I224' and '20I224', **Note pass the username and password as string**
 - $ Cd to the cloned location and do $python main_v3.py
 ## How to use - Method 2
 - Run the lastest version
+- Note Open main_v4.py in IDLE or referred IDE and proceed to **line 100 and pass username and password as arguments to connect function** (here replace it with rollno and pwd where in case mine is '20I224' and '20I224', **pass the username and password as string**
 <img src="https://user-images.githubusercontent.com/75175772/171410407-5543dc02-49b0-4d69-bff5-94db3e70b7ec.png" alt="click_run" width="400"/>
 
 
