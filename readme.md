@@ -22,4 +22,8 @@ This can still be automated with While True, sleep and occassional pinging to ch
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaushik-Ss%2FPSG-Tech-Hostel-WiFi-Login-Automated&count_bg=%237CFF18&title_bg=%23A83636&icon=&icon_color=%234D2121&title=Total+Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
-*Created for educational purposes only*
+
+# Disclaimer
+- *Created for educational purposes only*
+- This program does not break nor harm  PSG Tech it simply opens a browser and types in your password and username to login
+- This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
