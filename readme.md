@@ -24,6 +24,6 @@ This can still be automated with While True, sleep and occassional pinging to ch
 
 
 # Disclaimer
-- *Created for educational purposes only*
-- This program does not break nor harm  PSG Tech it simply opens a browser and types in your password and username to login
-- This tool is only for educational purpose. If you use this tool for other purposes except education I am not be responsible in such cases
+- **Created for educational purposes only**
+- **This program does not break nor harm  PSG Tech it simply opens a browser and types in your password and username to login**
+- **This tool is only for educational purpose. If you use this tool for other purposes except education I am not be responsible in such cases**
