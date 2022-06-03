@@ -2,6 +2,12 @@
 Hostel WiFi Login Automated using Python
 Works for users with this login page, takes in **username and password** uses Selenium, an open-source tool that automates web browsers to login to login page
 
+# Disclaimer
+- **Created for educational purposes only**
+- **This program does not break nor harm any server it simply opens a browser and types in your password and username to login**
+- **This tool is only for educational purpose. If you use this tool for other purposes except education I am not be responsible in such cases**
+
+
 ## **LATEST BUILD - main.py**
 <img src="https://user-images.githubusercontent.com/75175772/171265320-e75e2d85-3648-45d9-bf6b-82596d38d653.png" alt="login" width="400"/>
 
@@ -22,7 +28,4 @@ This can still be automated with While True, sleep and occassional pinging to ch
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaushik-Ss%2FPSG-Tech-Hostel-WiFi-Login-Automated&count_bg=%237CFF18&title_bg=%23A83636&icon=&icon_color=%234D2121&title=Total+Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
-# Disclaimer
-- **Created for educational purposes only**
-- **This program does not break nor harm any server it simply opens a browser and types in your password and username to login**
-- **This tool is only for educational purpose. If you use this tool for other purposes except education I am not be responsible in such cases**
+
