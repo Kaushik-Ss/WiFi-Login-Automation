@@ -3,7 +3,7 @@ Hostel WiFi Login Automated using Python
 Works for users with this login page, takes in **username and password** uses Selenium, an open-source tool that automates web browsers to login to login page
 
 ## **LATEST BUILD - main.py**
-![image](https://user-images.githubusercontent.com/75175772/171265320-e75e2d85-3648-45d9-bf6b-82596d38d653.png)
+<img src="https://user-images.githubusercontent.com/75175772/171265320-e75e2d85-3648-45d9-bf6b-82596d38d653.png" alt="login" width="400"/>
 
 
 ## How to use - Method 1
