@@ -4,7 +4,7 @@
 
 | Version      | Supported          |
 | -------      | ------------------ |
-| main_v4.py   | :white_check_mark: |
+| main.py      | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
