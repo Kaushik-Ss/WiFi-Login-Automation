@@ -9,7 +9,7 @@ Works for users with this login page, takes in **username and password** uses Se
 
 
 ## **LATEST BUILD - main.py**
-<img src="https://user-images.githubusercontent.com/75175772/171265320-e75e2d85-3648-45d9-bf6b-82596d38d653.png" alt="login" width="1000"/>
+<img src="https://user-images.githubusercontent.com/75175772/171265320-e75e2d85-3648-45d9-bf6b-82596d38d653.png" alt="login" width="900"/>
 
 
 ## How to use - Method 1
