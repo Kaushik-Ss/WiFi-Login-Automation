@@ -1,6 +1,6 @@
 # Hostel-Wifi-Login-Automated
 Hostel WiFi Login Automated using Python
-Works for users with this login page, takes in **username and password** to login 
+Works for users with this login page, takes in **username and password** uses Selenium, an open-source tool that automates web browsers to login to login page
 
 # Disclaimer
 - **Created for educational purposes only**
