@@ -8,7 +8,7 @@ Works for users with this login page, takes in **username and password** to logi
 
 ## How to use - Method 1
 - Clone / download repo and extract / open the files in cmd or cd to the downloaded / clonned repo
-- Run the latest file **(main_v3.py)** other files are for documentation purpose 
+- Run the latest file **(main.py)** other files are for documentation purpose 
 - Open cmd and type **pip install -r requirements.txt** 
 - Open main_v4.py in IDLE or referred IDE and proceed to **line 100 and pass username and password as arguments to connect function** (here replace it with rollno and pwd where in case mine is '20I224' and '20I224', **Note pass the username and password as string**
 - $ Cd to the cloned location and do $python main_v3.py
@@ -26,4 +26,4 @@ This can still be automated with While True, sleep and occassional pinging to ch
 # Disclaimer
 - *Created for educational purposes only*
 - This program does not break nor harm  PSG Tech it simply opens a browser and types in your password and username to login
-- This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
+- This tool is only for educational purpose. If you use this tool for other purposes except education I am not be responsible in such cases
